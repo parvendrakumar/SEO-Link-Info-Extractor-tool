@@ -21,3 +21,5 @@ A simple PHP tool that fetches all links from a webpage and provides metadata li
 ### 🤝 Contribute
 
 Feel free to fork, report issues, or improve the code.
+![image](https://github.com/user-attachments/assets/ded100d7-391e-40fe-8d3c-f0bca9784786)
+
